@@ -1,0 +1,26 @@
+[35m[1mScanning dependencies of target _vitarana_drone_generate_messages_check_deps_position[0m
+[  0%] Built target _vitarana_drone_generate_messages_check_deps_position
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _vitarana_drone_generate_messages_check_deps_prop_speed
+[  0%] Built target _vitarana_drone_generate_messages_check_deps_edrone_cmd
+[  6%] Built target vitarana_drone_gencfg
+[  6%] Built target _vitarana_drone_generate_messages_check_deps_Gripper
+[ 10%] [34m[1mGenerating Javascript code from vitarana_drone/position.msg[0m
+[ 13%] [34m[1mGenerating EusLisp code from vitarana_drone/position.msg[0m
+[ 17%] [34m[1mGenerating C++ code from vitarana_drone/position.msg[0m
+[ 20%] [34m[1mGenerating Python from MSG vitarana_drone/position[0m
+[ 24%] [34m[1mGenerating Lisp code from vitarana_drone/position.msg[0m
+[ 34%] Built target vitarana_drone_generate_messages_nodejs
+[ 48%] Built target vitarana_drone_generate_messages_eus
+[ 51%] [34m[1mGenerating Python srv __init__.py for vitarana_drone[0m
+[ 55%] [34m[1mGenerating Python msg __init__.py for vitarana_drone[0m
+[ 65%] Built target vitarana_drone_generate_messages_lisp
+[ 75%] Built target vitarana_drone_generate_messages_cpp
+[ 86%] Built target vitarana_drone_generate_messages_py
+[ 86%] Built target vitarana_drone_generate_messages
+[ 93%] Built target gazebo_edrone_propulsion
+[100%] Built target gazebo_ros_gps

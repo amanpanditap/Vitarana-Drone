@@ -1,0 +1,1 @@
+/home/aman/catkin_ws/devel/.private/vitarana_drone/share/roseus/ros/vitarana_drone/msg/edrone_cmd.l

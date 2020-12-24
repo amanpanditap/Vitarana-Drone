@@ -1,0 +1,1 @@
+/home/aman/catkin_ws/devel/.private/pkg_ros_task0/share/pkg_ros_task0/cmake/pkg_ros_task0Config.cmake
